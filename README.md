@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your program:
-
 # Morse Code Translator
 
 This program translates text into Morse code and plays it as sounds using the Windows API.
